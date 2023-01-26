@@ -1,2 +1,2 @@
 # spring2023_assignment1
-Nikhil Babu Manchukonda
+Person 1: Nikhil Babu Manchukonda
